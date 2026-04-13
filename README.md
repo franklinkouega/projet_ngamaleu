@@ -9,4 +9,4 @@ si web realise dans le cadre de mon laboratoire.
 ## Site web
 Lien GitHub Pages à ajouter après activation
 
-[https://github.com/franklinkouega/projet_ngamaleu.git](url)
+[https://franklinkouega.github.io/projet_ngamaleu/](url)
